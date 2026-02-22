@@ -7,5 +7,3 @@ allFiles.forEach((file) => {
   script.src = `./js-questions/${file}`;
   document.body.appendChild(script);
 });
-
-console.log("Hellow")
