@@ -1,5 +1,5 @@
 const allFiles = [
-    'arrayQ5.js'
+    'countDigitsQ1.js'
 ];
 
 allFiles.forEach((file) => {
