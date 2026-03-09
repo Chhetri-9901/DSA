@@ -1,5 +1,5 @@
 const allFiles = [
-    'countDigitsQ1.js'
+    'reverseString.js'
 ];
 
 allFiles.forEach((file) => {
