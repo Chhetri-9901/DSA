@@ -1,9 +1,11 @@
 const allFiles = [
-    'reverseString.js'
+    'removeDuplicate.js'
 ];
 
 allFiles.forEach((file) => {
   const script = document.createElement("script");
-  script.src = `./js-questions/${file}`;
+  script.src = `./arrays-easy--medium/${file}`;
   document.body.appendChild(script);
 });
+
+console.log("hello")
