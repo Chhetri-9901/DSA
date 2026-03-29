@@ -1,5 +1,5 @@
 const allFiles = [
-    'removeDuplicate.js'
+    'reverseString.js'
 ];
 
 allFiles.forEach((file) => {
@@ -7,5 +7,3 @@ allFiles.forEach((file) => {
   script.src = `./arrays-easy--medium/${file}`;
   document.body.appendChild(script);
 });
-
-console.log("hello")
