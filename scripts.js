@@ -1,5 +1,5 @@
 const allFiles = [
-    'reverseString.js'
+    'buySellStocks.js'
 ];
 
 allFiles.forEach((file) => {
