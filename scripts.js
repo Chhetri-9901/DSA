@@ -1,5 +1,5 @@
 const allFiles = [
-    'buySellStocks.js'
+    'mergeSortedArrays.js'
 ];
 
 allFiles.forEach((file) => {
