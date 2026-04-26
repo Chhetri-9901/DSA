@@ -1,5 +1,5 @@
 const allFiles = [
-    'mergeSortedArrays.js'
+    'moveNonZeroNumbers.js'
 ];
 
 allFiles.forEach((file) => {
